@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">InteractiveLearning2</string>
+    <string name="another_string">Test</string>
 </resources>
